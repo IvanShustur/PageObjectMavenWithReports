@@ -3,7 +3,7 @@
 <suite name="RozetkaTest"  data-provider-thread-count="3" verbose="1">
     <test name="checkThatThePriceOFProductHigherThanGivenPrice">
         <classes>
-            <class name="com.lab.selenium.RozetkaTest"/>
+            <class name="selenium.RozetkaTest"/>
         </classes>
     </test>
 </suite>
