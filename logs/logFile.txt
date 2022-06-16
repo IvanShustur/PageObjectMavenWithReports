@@ -1,49 +1,49 @@
-2022-06-13 13:49:19,097 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test was started 
-2022-06-13 13:49:19,097 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test was started 
-2022-06-13 13:49:19,097 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test was started 
-2022-06-13 13:49:24,932 INFO D.DriverProvider [TestNG-PoolService-0] Driver has been created 
-2022-06-13 13:49:24,936 INFO D.DriverProvider [TestNG-PoolService-1] Driver has been created 
-2022-06-13 13:49:24,978 INFO D.DriverProvider [TestNG-PoolService-2] Driver has been created 
-2022-06-13 13:49:29,764 INFO s.p.HomePage [TestNG-PoolService-1] Product name was written to the searchBox 
-2022-06-13 13:49:29,920 INFO s.p.HomePage [TestNG-PoolService-2] Product name was written to the searchBox 
-2022-06-13 13:49:29,972 INFO s.p.HomePage [TestNG-PoolService-0] Product name was written to the searchBox 
-2022-06-13 13:49:35,969 INFO s.p.SearchResultPage [TestNG-PoolService-0] The first product was selected 
-2022-06-13 13:49:35,970 INFO s.p.ItemPage [TestNG-PoolService-0] scroll... 
-2022-06-13 13:49:36,319 INFO s.p.SearchResultPage [TestNG-PoolService-1] The first product was selected 
-2022-06-13 13:49:36,320 INFO s.p.ItemPage [TestNG-PoolService-1] scroll... 
-2022-06-13 13:49:37,461 INFO s.p.SearchResultPage [TestNG-PoolService-2] The first product was selected 
-2022-06-13 13:49:37,462 INFO s.p.ItemPage [TestNG-PoolService-2] scroll... 
-2022-06-13 13:49:39,942 INFO s.p.ItemPage [TestNG-PoolService-0] Item was added to the cart 
-2022-06-13 13:49:40,108 INFO s.p.ItemPage [TestNG-PoolService-1] Item was added to the cart 
-2022-06-13 13:49:40,967 INFO s.p.ShoppingCartPage [TestNG-PoolService-1] The price of product was taken 
-2022-06-13 13:49:40,975 INFO s.p.HomePage [TestNG-PoolService-1] The price of product was compared to given price 
-2022-06-13 13:49:41,436 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test successfully passed 
-2022-06-13 13:49:41,634 INFO s.p.ShoppingCartPage [TestNG-PoolService-0] The price of product was taken 
-2022-06-13 13:49:41,801 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test failed 
-2022-06-13 13:49:41,862 INFO s.p.ItemPage [TestNG-PoolService-2] Item was added to the cart 
-2022-06-13 13:49:42,775 INFO s.p.ShoppingCartPage [TestNG-PoolService-2] The price of product was taken 
-2022-06-13 13:49:42,775 INFO s.p.HomePage [TestNG-PoolService-2] The price of product was compared to given price 
-2022-06-13 13:49:42,777 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test successfully passed 
-2022-06-13 13:49:42,852 INFO D.DriverProvider [TestNG-PoolService-0] Driver closed 
-2022-06-13 13:49:42,876 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test was started 
-2022-06-13 13:49:42,902 INFO D.DriverProvider [TestNG-PoolService-1] Driver closed 
-2022-06-13 13:49:42,906 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test was started 
-2022-06-13 13:49:43,699 INFO D.DriverProvider [TestNG-PoolService-2] Driver closed 
-2022-06-13 13:49:45,055 INFO D.DriverProvider [TestNG-PoolService-0] Driver has been created 
-2022-06-13 13:49:45,298 INFO D.DriverProvider [TestNG-PoolService-1] Driver has been created 
-2022-06-13 13:49:48,194 INFO s.p.HomePage [TestNG-PoolService-0] Product name was written to the searchBox 
-2022-06-13 13:49:52,385 INFO s.p.HomePage [TestNG-PoolService-1] Product name was written to the searchBox 
-2022-06-13 13:49:53,165 INFO s.p.SearchResultPage [TestNG-PoolService-1] The first product was selected 
-2022-06-13 13:49:53,168 INFO s.p.ItemPage [TestNG-PoolService-1] scroll... 
-2022-06-13 13:49:54,723 INFO s.p.SearchResultPage [TestNG-PoolService-0] The first product was selected 
-2022-06-13 13:49:54,723 INFO s.p.ItemPage [TestNG-PoolService-0] scroll... 
-2022-06-13 13:49:55,947 INFO s.p.ItemPage [TestNG-PoolService-1] Item was added to the cart 
-2022-06-13 13:49:56,947 INFO s.p.ItemPage [TestNG-PoolService-0] Item was added to the cart 
-2022-06-13 13:49:57,080 INFO s.p.ShoppingCartPage [TestNG-PoolService-1] The price of product was taken 
-2022-06-13 13:49:57,090 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test failed 
-2022-06-13 13:49:57,724 INFO s.p.ShoppingCartPage [TestNG-PoolService-0] The price of product was taken 
-2022-06-13 13:49:57,725 INFO s.p.HomePage [TestNG-PoolService-0] The price of product was compared to given price 
-2022-06-13 13:49:57,728 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test successfully passed 
-2022-06-13 13:49:57,957 INFO D.DriverProvider [TestNG-PoolService-1] Driver closed 
-2022-06-13 13:49:58,580 INFO D.DriverProvider [TestNG-PoolService-0] Driver closed 
-2022-06-13 13:49:58,605 INFO s.l.RozetkaTestListener [main] The test is finished 
+2022-06-16 21:47:18,945 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test was started 
+2022-06-16 21:47:18,945 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test was started 
+2022-06-16 21:47:18,945 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test was started 
+2022-06-16 21:47:30,404 INFO D.DriverProvider [TestNG-PoolService-0] Driver has been created 
+2022-06-16 21:47:30,409 INFO D.DriverProvider [TestNG-PoolService-2] Driver has been created 
+2022-06-16 21:47:30,453 INFO D.DriverProvider [TestNG-PoolService-1] Driver has been created 
+2022-06-16 21:47:47,418 INFO s.p.HomePage [TestNG-PoolService-1] Product name was written to the searchBox 
+2022-06-16 21:47:48,757 INFO s.p.HomePage [TestNG-PoolService-0] Product name was written to the searchBox 
+2022-06-16 21:47:48,922 INFO s.p.SearchResultPage [TestNG-PoolService-1] The first product was selected 
+2022-06-16 21:47:48,923 INFO s.p.ItemPage [TestNG-PoolService-1] scroll... 
+2022-06-16 21:47:49,387 INFO s.p.SearchResultPage [TestNG-PoolService-0] The first product was selected 
+2022-06-16 21:47:49,387 INFO s.p.ItemPage [TestNG-PoolService-0] scroll... 
+2022-06-16 21:47:50,097 INFO s.p.HomePage [TestNG-PoolService-2] Product name was written to the searchBox 
+2022-06-16 21:47:50,561 INFO s.p.SearchResultPage [TestNG-PoolService-2] The first product was selected 
+2022-06-16 21:47:50,562 INFO s.p.ItemPage [TestNG-PoolService-2] scroll... 
+2022-06-16 21:47:53,426 INFO s.p.ItemPage [TestNG-PoolService-0] Item was added to the cart 
+2022-06-16 21:47:53,818 INFO s.p.ItemPage [TestNG-PoolService-1] Item was added to the cart 
+2022-06-16 21:47:55,309 INFO s.p.ItemPage [TestNG-PoolService-2] Item was added to the cart 
+2022-06-16 21:47:55,562 INFO s.p.ShoppingCartPage [TestNG-PoolService-0] The price of product was taken 
+2022-06-16 21:47:55,574 INFO s.p.ShoppingCartPage [TestNG-PoolService-1] The price of product was taken 
+2022-06-16 21:47:55,574 INFO s.p.HomePage [TestNG-PoolService-1] The price of product was compared to given price 
+2022-06-16 21:47:56,021 INFO s.l.RozetkaTestListener [TestNG-PoolService-1] Test successfully passed 
+2022-06-16 21:47:56,030 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test failed 
+2022-06-16 21:47:56,331 INFO s.p.ShoppingCartPage [TestNG-PoolService-2] The price of product was taken 
+2022-06-16 21:47:56,331 INFO s.p.HomePage [TestNG-PoolService-2] The price of product was compared to given price 
+2022-06-16 21:47:56,337 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test successfully passed 
+2022-06-16 21:47:57,275 INFO D.DriverProvider [TestNG-PoolService-0] Driver closed 
+2022-06-16 21:47:57,295 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test was started 
+2022-06-16 21:47:57,308 INFO D.DriverProvider [TestNG-PoolService-2] Driver closed 
+2022-06-16 21:47:57,311 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test was started 
+2022-06-16 21:47:57,442 INFO D.DriverProvider [TestNG-PoolService-1] Driver closed 
+2022-06-16 21:47:59,514 INFO D.DriverProvider [TestNG-PoolService-2] Driver has been created 
+2022-06-16 21:47:59,514 INFO D.DriverProvider [TestNG-PoolService-0] Driver has been created 
+2022-06-16 21:48:02,920 INFO s.p.HomePage [TestNG-PoolService-2] Product name was written to the searchBox 
+2022-06-16 21:48:03,206 INFO s.p.HomePage [TestNG-PoolService-0] Product name was written to the searchBox 
+2022-06-16 21:48:08,586 INFO s.p.SearchResultPage [TestNG-PoolService-2] The first product was selected 
+2022-06-16 21:48:08,587 INFO s.p.ItemPage [TestNG-PoolService-2] scroll... 
+2022-06-16 21:48:09,143 INFO s.p.SearchResultPage [TestNG-PoolService-0] The first product was selected 
+2022-06-16 21:48:09,145 INFO s.p.ItemPage [TestNG-PoolService-0] scroll... 
+2022-06-16 21:48:11,372 INFO s.p.ItemPage [TestNG-PoolService-2] Item was added to the cart 
+2022-06-16 21:48:12,186 INFO s.p.ItemPage [TestNG-PoolService-0] Item was added to the cart 
+2022-06-16 21:48:12,316 INFO s.p.ShoppingCartPage [TestNG-PoolService-2] The price of product was taken 
+2022-06-16 21:48:12,325 INFO s.l.RozetkaTestListener [TestNG-PoolService-2] Test failed 
+2022-06-16 21:48:13,033 INFO s.p.ShoppingCartPage [TestNG-PoolService-0] The price of product was taken 
+2022-06-16 21:48:13,033 INFO s.p.HomePage [TestNG-PoolService-0] The price of product was compared to given price 
+2022-06-16 21:48:13,040 INFO s.l.RozetkaTestListener [TestNG-PoolService-0] Test successfully passed 
+2022-06-16 21:48:13,235 INFO D.DriverProvider [TestNG-PoolService-2] Driver closed 
+2022-06-16 21:48:13,877 INFO D.DriverProvider [TestNG-PoolService-0] Driver closed 
+2022-06-16 21:48:13,955 INFO s.l.RozetkaTestListener [main] The test is finished 
